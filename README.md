@@ -40,7 +40,7 @@ The plotting results are as below:
 
 The First image is a Pie chart which explains the Total volume of the stock for each year. It also gives the total number for each year.
  
-![My image](/Users/flowergirl/Desktop/gitpython/MyProject/plots/TSLA-Stocks_Analysis)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 The second image is a total understanding of the Highest price, Lowest price and closing price for the last 10 years. The image gives an understanding about the Stock rise over the years even though there was dip in the year Q2 of the year 2019. 
  
@@ -56,6 +56,3 @@ The next step I would love to see is the Bar chart for each year on different fi
 
 ### References
 https://www.kaggle.com/timoboz/tesla-stock-data-from-2010-to-2020#TSLA.csv
-
--------
-https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/TSLA_total_volume.png
