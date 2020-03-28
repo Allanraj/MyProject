@@ -1,4 +1,4 @@
-# cebd1160_project_template
+# cebd1160: Analysis on Tesla Stock for the last 10 year
 
 
 | Name | Date |
@@ -10,8 +10,8 @@
 ### Resources
 Your repository should include the following:
 
-- Python script for your analysis
-- Results figure/saved file
+- Python script for your analysis: Mypythonproject.py
+- Results figure/saved file: Plots/
 - Dockerfile for your experiment: N/A
 - runtime-instructions in a file named RUNME.md
 
@@ -54,6 +54,6 @@ The next step I would love to see is the Bar chart for each year on different fi
 
 
 ### References
-All of the links
+https://www.kaggle.com/timoboz/tesla-stock-data-from-2010-to-2020#TSLA.csv
 
 -------
