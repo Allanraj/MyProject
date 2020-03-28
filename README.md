@@ -44,7 +44,7 @@ The First image is a Pie chart which explains the Total volume of the stock for 
 
 The second image is a total understanding of the Highest price, Lowest price and closing price for the last 10 years. The image gives an understanding about the Stock rise over the years even though there was dip in the year Q2 of the year 2019. 
  
-
+[<img src="https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/Stocks_comparision.png">](https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/)
 
 ### Discussion
 
