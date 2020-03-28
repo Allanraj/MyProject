@@ -1,4 +1,4 @@
-# cebd1160_project_template
+# cebd1160: Analysis on Tesla Stock for the last 10 year
 
 
 | Name | Date |
@@ -10,8 +10,8 @@
 ### Resources
 Your repository should include the following:
 
-- Python script for your analysis
-- Results figure/saved file
+- Python script for your analysis: Mypythonproject.py
+- Results figure/saved file: Plots/
 - Dockerfile for your experiment: N/A
 - runtime-instructions in a file named RUNME.md
 
@@ -40,6 +40,7 @@ The plotting results are as below:
 
 The First image is a Pie chart which explains the Total volume of the stock for each year. It also gives the total number for each year.
  
+![My image](/Users/flowergirl/Desktop/gitpython/MyProject/plots/TSLA-Stocks_Analysis)
 
 The second image is a total understanding of the Highest price, Lowest price and closing price for the last 10 years. The image gives an understanding about the Stock rise over the years even though there was dip in the year Q2 of the year 2019. 
  
@@ -54,6 +55,7 @@ The next step I would love to see is the Bar chart for each year on different fi
 
 
 ### References
-All of the links
+https://www.kaggle.com/timoboz/tesla-stock-data-from-2010-to-2020#TSLA.csv
 
 -------
+https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/TSLA_total_volume.png
