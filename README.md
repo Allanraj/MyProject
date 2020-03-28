@@ -13,7 +13,7 @@ Your repository should include the following:
 - Python script for your analysis: Mypythonproject.py
 - Results figure/saved file: Plots/
 - Dockerfile for your experiment: N/A
-- runtime-instructions in a file named RUNME.md
+- runtime-instructions in a file named N/A
 
 -----
 
