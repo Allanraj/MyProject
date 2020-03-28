@@ -34,7 +34,7 @@ The dataset of Tesla stocks value are takenfrom Kaggle(https://www.kaggle.com/ti
 
 I have used Matlob plotting, plotly for viewing the data for easy understanding. The reason why I chose plotting is because the data consists of date range for past 10year so plotting the values would be more practical to visualize the data. The source or the function can be found here https://matplotlib.org/tutorials/introductory/pyplot.html 
 
-![<img src="https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/TSLA_plotly.png">](https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/)
+[<img src="https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/TSLA_plotly.png">](https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/)
 
 ### Results
 
@@ -42,11 +42,11 @@ The plotting results are as below:
 
 The First image is a Pie chart which explains the Total volume of the stock for each year. It also gives the total number for each year.
  
-![<img src="https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/TSLA_total_volume.png">](https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/)
+[<img src="https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/TSLA_total_volume.png">](https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/)
 
 The second image is a total understanding of the Highest price, Lowest price and closing price for the last 10 years. The image gives an understanding about the Stock rise over the years even though there was dip in the year Q2 of the year 2019. 
  
-[<img src="https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/TSLA_total_volume.png">](https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/)
+[<img src="https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/Stocks_comparision.png">](https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/)
 
 ### Discussion
 
@@ -58,6 +58,3 @@ The next step I would love to see is the Bar chart for each year on different fi
 
 ### References
 https://www.kaggle.com/timoboz/tesla-stock-data-from-2010-to-2020#TSLA.csv
-
--------
-https://github.com/Allanraj/MyProject/blob/master/plots/TSLA-Stocks_Analysis/TSLA_total_volume.png
